@@ -1,0 +1,17 @@
+<package>
+  <description brief="thanhtu">
+
+     thanhtu
+
+  </description>
+  <author>minhtien</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/thanhtu</url>
+  <depend package="move_base"/>
+  <depend package="tf"/>
+  <depend package="tf2"/>
+  <depend package="std_msgs"/>
+  <depend package="geometry_msgs"/>
+
+</package>
